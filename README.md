@@ -1,4 +1,4 @@
-# Real-Time Chat App
+# Anonymous Real-time Chat 
 
 
 ## Technologies
