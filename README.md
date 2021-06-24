@@ -1,6 +1,6 @@
 # Real-Time Anonymous Chat App
 Application designed for anonymous writing with random people.  
-The anonymous user enters the chat page. Then clicks the button that says 'Join to lobby'. The system adds an anonymous user to the queue where it waits for another person. When the system pairs anonymous users, it creates a room for them to write together. An anonymous user can stop the chat or start searching for another person at any time.
+The user enters the site can join the lobby. The system adds an anonymous user to the queue where it waits for another person. When the system pairs anonymous users, it creates a room for them to write together. An anonymous user can stop the chat or start searching for another person at any time.
 
 ## Technologies
 * ASP.NET Core 5
